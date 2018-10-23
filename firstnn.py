@@ -56,7 +56,7 @@ print '网络最终的输出为：'
 
 print l1
 
-print '针对测试集进行预测，结果为 fuck you motherfucker'
+print '针对测试集进行预测，结果为'
 
 print l3
 
